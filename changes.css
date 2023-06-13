@@ -1,0 +1,25 @@
+/* changes to the default style */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;1,300;1,400&family=Roboto+Mono:ital@0;1&display=swap');
+
+p, ol {
+	margin-top: 1rem;
+	margin-bottom: 0;
+}
+
+.quarto-title-meta-contents > p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+blockquote > p {
+	margin-top: 0;
+}
+
+blockquote {
+	margin-top: 1rem;
+}
+
+details {
+	margin-top: 1rem;
+}
