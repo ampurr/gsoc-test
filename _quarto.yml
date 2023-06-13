@@ -3,8 +3,6 @@ project:
   render:
     - "*.qmd"
     - "!app/"
-execute:
-  freeze: auto
 
 format: html
 css: changes.css
